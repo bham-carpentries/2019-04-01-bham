@@ -30,6 +30,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% endcomment %}
 
 <h3 align="center"><strong>This workshop is full. Only those with a confirmed place may attend.</strong></h3>
+<h3 align="center">https://bham-carpentries.github.io/2019-04-01-bham/</h3>
 
 {% if page.carpentry != site.carpentry %}
 <div class="alert alert-warning">
